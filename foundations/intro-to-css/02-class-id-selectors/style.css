@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+  background-color: pink;
+  font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+
+.odd.other {
+  font-size: 24px;
+}
+
+#Num2 {
+  color: blue;
+  font-size: 36px;
+}
+
+#Num4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: 700;
+}

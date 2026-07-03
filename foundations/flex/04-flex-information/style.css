@@ -1,5 +1,18 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+.images{
+  display: flex;
+}
+
+.title,
+.barberry,
+.chilli,
+.pepper,
+.saffron{
+  margin: 16px;
 }
 
 img {
